@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @master-of-the-forest
-- 👀 I’m interested in clean code, clean motorcycles, and teaching yoga.
+- 👀 I’m interested in clean code and exploring the wilderness.
 - 🌱 I’m currently learning JS, Python, HTML, CSS, and more through App Academy.
 
 <!---
