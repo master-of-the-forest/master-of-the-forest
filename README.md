@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @master-of-the-forest
-- 👀 I’m interested in clean code and exploring the wilderness.
-- 🌱 I’m currently learning JS, Python, HTML, CSS, and more through App Academy.
+- 👀 I’m interested in nutrition.
+- 🌱 I’m currently learning Swift.
 
 <!---
 master-of-the-forest/master-of-the-forest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
